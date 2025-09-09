@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+pandas = "*"
+python-dotenv = "*"
+pyyaml = "*"
+openai = "*"
+datasets = "*"
+scikit-learn = "*"
+sentence-transformers = "*"
+faiss-cpu = "*"
+transformers = {extras = ["torch"], version = "*"}
+accelerate = ">=0.26.0"
+protobuf = "*"
+evaluate = "*"
+seqeval = "*"
+backoff = "*"
+flask = "*"
+neo4j = "*"
+spacy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
