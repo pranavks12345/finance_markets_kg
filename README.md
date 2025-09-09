@@ -1,6 +1,5 @@
 # finance_markets_kg
 Natural language interface for querying financial knowledge graphs built from Finnhub news data. Ask questions in plain English about companies, relationships, and market events.
-Features
 
 Natural language processing for complex questions
 Smart query translation to Cypher
