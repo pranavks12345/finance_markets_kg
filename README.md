@@ -12,7 +12,7 @@ Built from real financial news data (AAPL, MSFT, NVDA, GOOGL, AMZN, TSLA)
 pipenv install
 
 
-##Key Files
+## Key Files
 
 frontend.py - Main web interface for querying
 
