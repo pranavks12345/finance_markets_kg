@@ -14,10 +14,10 @@ pipenv install
 
 ##Key Files
 
-frontend.py - Main web interface for querying
-kg_loader_neo4j.py - Loads processed data into Neo4j
-test_api.py - Pulls news from Finnhub API
-preprocessing_kg.py - Cleans and prepares raw data
+frontend.py - Main web interface for querying //
+kg_loader_neo4j.py - Loads processed data into Neo4j //
+test_api.py - Pulls news from Finnhub API //
+preprocessing_kg.py - Cleans and prepares raw data //
 ner_for_all.py - Extracts entities from text
 event_rel.py - Extracts relationships and events
 Pipfile - Python dependencies
