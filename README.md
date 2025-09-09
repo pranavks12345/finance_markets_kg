@@ -11,6 +11,18 @@ Built from real financial news data (AAPL, MSFT, NVDA, GOOGL, AMZN, TSLA)
 ## Quick Start
 pipenv install
 
+Set environment variables 
+
+NEO4J_URI=neo4j://localhost:7687
+
+NEO4J_USERNAME=neo4j
+
+NEO4J_PASSWORD=your_password
+
+FINNHUB_API_KEY=your_api_key
+
+OPENAI_API_KEY=your_api_key
+
 
 ## Key Files
 
